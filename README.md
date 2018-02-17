@@ -7,17 +7,25 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [R Blogdown](https://bookdown.org/yihui/blogdown/)
 - [ggplot2](http://ggplot2.tidyverse.org/reference/)
 - [Headley Wickham](http://hadley.nz/)
+- [Advance R](http://adv-r.had.co.nz/)
+
+### Python
+- [Learn Python Org](http://www.learnpython.org/en/Hello%2C_World%21)
+- [Python Graph Gallery](https://python-graph-gallery.com/)
 
 
 ### Data Science
 - [Data Science Central](https://www.datasciencecentral.com/)
 - [Medium](https://towardsdatascience.com/)
 - [Analytics Vidhya](http://analyticsvidhya.com/)
-- 
+
 
 ### Machine Learning
 - [kdnuggets](https://www.kdnuggets.com/)
 - [Kaggle](https://www.kaggle.com/)
+
+### Statistics & Probability
+- [Seeing Theory](http://students.brown.edu/seeing-theory/index.html)
 
 
 ### Frequently visiting blogs
@@ -32,13 +40,22 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Data Science Plus](https://datascienceplus.com/)
 - [R Weekly Org](https://rweekly.org/)
 - [Andrew Gelman](http://andrewgelman.com/)
+- [Edwin Chen's Blog](http://blog.echen.me/)
+- [R Statistcis co](http://r-statistics.co/Linear-Regression.html)
+
 
 ### Public Datasets
 - [Quandl](https://www.quandl.com/)
 - [Quora](https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public)
 - [Public Data Sources](http://www.jenunderwood.com/2016/01/14/my-favorite-public-data-sources/)
 - [US Gov](https://www.data.gov/)
+- [Our World Data](https://ourworldindata.org/)
 
 
 ### Videos on Data
 - [Ted Talks - Making sense of too much data](https://www.ted.com/playlists/56/making_sense_of_too_much_data)
+
+
+### Free Ebooks
+- [Green Tea Press](http://greenteapress.com/wp/)
+
