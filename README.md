@@ -50,6 +50,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Public Data Sources](http://www.jenunderwood.com/2016/01/14/my-favorite-public-data-sources/)
 - [US Gov](https://www.data.gov/)
 - [Our World Data](https://ourworldindata.org/)
+- [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/index.php)
 
 
 ### Videos on Data
