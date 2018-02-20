@@ -51,7 +51,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [US Gov](https://www.data.gov/)
 - [Our World Data](https://ourworldindata.org/)
 - [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/index.php)
-
+- [KDNuggets datasets](https://www.kdnuggets.com/datasets/index.html)
 
 ### Videos on Data
 - [Ted Talks - Making sense of too much data](https://www.ted.com/playlists/56/making_sense_of_too_much_data)
