@@ -45,6 +45,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 
 
 ### Public Datasets
+- [Fig Share](https://figshare.com/browse)
 - [Quandl](https://www.quandl.com/)
 - [Quora](https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public)
 - [Public Data Sources](http://www.jenunderwood.com/2016/01/14/my-favorite-public-data-sources/)
