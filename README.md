@@ -52,6 +52,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Our World Data](https://ourworldindata.org/)
 - [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/index.php)
 - [KDNuggets datasets](https://www.kdnuggets.com/datasets/index.html)
+- [Jerry Smith - Data Science Insights](https://datascientistinsights.com/2013/02/02/data-monetization-road-paved-on-top-of-data-sets/)
 
 ### Videos on Data
 - [Ted Talks - Making sense of too much data](https://www.ted.com/playlists/56/making_sense_of_too_much_data)
