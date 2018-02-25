@@ -20,9 +20,14 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Analytics Vidhya](http://analyticsvidhya.com/)
 
 
+### Data Visualization
+- [Flowing Data](http://flowingdata.com/)
+
+
 ### Machine Learning
 - [kdnuggets](https://www.kdnuggets.com/)
 - [Kaggle](https://www.kaggle.com/)
+
 
 ### Statistics & Probability
 - [Seeing Theory](http://students.brown.edu/seeing-theory/index.html)
