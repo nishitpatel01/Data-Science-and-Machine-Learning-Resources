@@ -19,6 +19,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Medium](https://towardsdatascience.com/)
 - [Analytics Vidhya](http://analyticsvidhya.com/)
 - [Data Science 101](http://101.datascience.community/)
+- [Data Science News](https://www.datacamp.com/community)
 
 
 ### Data Visualization
