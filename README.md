@@ -69,3 +69,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 ### Free Ebooks
 - [Green Tea Press](http://greenteapress.com/wp/)
 
+
+### Misc
+- [Columbia University Applied Machine Learning by Andreas Muller](http://www.cs.columbia.edu/~amueller/comsw4995s18/schedule/)
+
