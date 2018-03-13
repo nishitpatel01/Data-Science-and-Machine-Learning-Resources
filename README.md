@@ -36,6 +36,10 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Seeing Theory](http://students.brown.edu/seeing-theory/index.html)
 
 
+### Algorithms
+- [Regression (Glm)](https://web.stanford.edu/~hastie/glmnet/glmnet_alpha.html)
+
+
 ### Frequently visiting blogs
 - [Chris Albon](https://chrisalbon.com/)
 - [DS Lore](http://nadbordrozd.github.io/)
