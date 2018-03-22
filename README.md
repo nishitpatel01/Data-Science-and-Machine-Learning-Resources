@@ -25,6 +25,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 
 ### Data Visualization
 - [Flowing Data](http://flowingdata.com/)
+- [Seaborn pair plots](https://seaborn.pydata.org/generated/seaborn.pairplot.html)
 
 
 ### Machine Learning
