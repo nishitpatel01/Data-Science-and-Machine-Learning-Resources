@@ -55,7 +55,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Andrew Gelman](http://andrewgelman.com/)
 - [Edwin Chen's Blog](http://blog.echen.me/)
 - [R Statistcis co](http://r-statistics.co/Linear-Regression.html)
-
+- [Data Camp Community](https://www.datacamp.com/community)
 
 ### Public Datasets
 - [Fig Share](https://figshare.com/browse)
