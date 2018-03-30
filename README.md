@@ -39,6 +39,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 
 ### Algorithms
 - [Regression (Glm)](https://web.stanford.edu/~hastie/glmnet/glmnet_alpha.html)
+- [Forecasting using Time Series](http://a-little-book-of-r-for-time-series.readthedocs.io/en/latest/src/timeseries.html)
 
 
 ### Frequently visiting blogs
