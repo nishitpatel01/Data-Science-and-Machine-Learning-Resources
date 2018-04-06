@@ -21,7 +21,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Data Science 101](http://101.datascience.community/)
 - [Data Science News](https://www.datacamp.com/community)
 - [Data Science Plus](https://datascienceplus.com/)
-
+- [Listen Data](https://www.listendata.com/)
 
 ### Data Visualization
 - [Flowing Data](http://flowingdata.com/)
