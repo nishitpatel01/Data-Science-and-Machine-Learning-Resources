@@ -38,6 +38,10 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Seeing Theory](http://students.brown.edu/seeing-theory/index.html)
 
 
+### Deep Learning
+- [Deep Learning Papers and read](https://www.kdnuggets.com/2018/03/top-20-deep-learning-papers-2018.html)
+
+
 ### Algorithms
 - [Regression (Glm)](https://web.stanford.edu/~hastie/glmnet/glmnet_alpha.html)
 - [Forecasting using Time Series](http://a-little-book-of-r-for-time-series.readthedocs.io/en/latest/src/timeseries.html)
