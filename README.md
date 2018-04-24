@@ -49,6 +49,10 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Practice Algorithms](https://algorithms.tutorialhorizon.com/)
 
 
+### Big Data
+-[Big Data - COgnitive AI](https://cognitiveclass.ai/)
+
+
 ### Frequently visiting blogs
 - [Chris Albon](https://chrisalbon.com/)
 - [DS Lore](http://nadbordrozd.github.io/)
