@@ -50,7 +50,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 
 
 ### Big Data
-- [Big Data - COgnitive AI](https://cognitiveclass.ai/)
+- [Big Data - Cognitive AI](https://cognitiveclass.ai/)
 
 
 ### Frequently visiting blogs
