@@ -43,6 +43,8 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Convolutional Neural Network](https://deeplearning4j.org/convolutionalnetwork)
 - [Convolutional Neural Network for Visual Recognition](https://cs231n.github.io/)
 - [A simple introduction of ANN](https://ujjwalkarn.me/2016/08/09/quick-intro-neural-networks/)
+- [How backpropagation works](http://home.agh.edu.pl/~vlsi/AI/backp_t_en/backprop.html)
+
 
 ### Algorithms
 - [Regression (Glm)](https://web.stanford.edu/~hastie/glmnet/glmnet_alpha.html)
