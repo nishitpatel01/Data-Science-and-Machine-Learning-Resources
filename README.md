@@ -45,6 +45,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [A simple introduction of ANN](https://ujjwalkarn.me/2016/08/09/quick-intro-neural-networks/)
 - [How backpropagation works](http://home.agh.edu.pl/~vlsi/AI/backp_t_en/backprop.html)
 - [UFLDL DeepLearning Tutorials](http://ufldl.stanford.edu/tutorial/)
+- [Classification Results using Deep Learing](http://rodrigob.github.io/are_we_there_yet/build/classification_datasets_results.html)
 
 
 ### Algorithms
