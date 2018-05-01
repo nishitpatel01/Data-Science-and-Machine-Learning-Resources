@@ -98,4 +98,6 @@ List of Data Science and Machine Learning Resource that I frequently use
 ### Misc
 - [Columbia University Applied Machine Learning by Andreas Muller](http://www.cs.columbia.edu/~amueller/comsw4995s18/schedule/)
 - [Machine Learning Cheat Sheet in R](https://i2.wp.com/www.thertrader.com/wp-content/uploads/2018/03/Picture3.jpg)
+- [Which algorithn should one use?](https://blogs.sas.com/content/subconsciousmusings/2017/04/12/machine-learning-algorithm-use/#prettyPhoto)
+
 
