@@ -8,6 +8,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [ggplot2](http://ggplot2.tidyverse.org/reference/)
 - [Headley Wickham](http://hadley.nz/)
 - [Advance R](http://adv-r.had.co.nz/)
+- [R Package Documentation](https://rdrr.io/)
 
 ### Python
 - [Learn Python Org](http://www.learnpython.org/en/Hello%2C_World%21)
