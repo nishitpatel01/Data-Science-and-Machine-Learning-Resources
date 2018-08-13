@@ -36,6 +36,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [kdnuggets](https://www.kdnuggets.com/)
 - [Kaggle](https://www.kaggle.com/)
 - [Math Works](https://www.mathworks.com/help/stats/index.html)
+- [In depth introduction to machine learning - Hastie & Tibshirani](https://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
 
 
 ### Statistics & Probability
