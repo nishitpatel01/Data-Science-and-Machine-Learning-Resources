@@ -23,6 +23,8 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Data Science News](https://www.datacamp.com/community)
 - [Data Science Plus](https://datascienceplus.com/)
 - [Listen Data](https://www.listendata.com/)
+- [Data Science Specialization Course Notes](http://sux13.github.io/DataScienceSpCourseNotes/)
+
 
 
 ### Data Visualization
@@ -37,10 +39,14 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Kaggle](https://www.kaggle.com/)
 - [Math Works](https://www.mathworks.com/help/stats/index.html)
 - [In depth introduction to machine learning - Hastie & Tibshirani](https://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
+- [Machine Learning Youtube Videos](https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/)
+
 
 
 ### Statistics & Probability
 - [Seeing Theory](http://students.brown.edu/seeing-theory/index.html)
+- [Applied Modern Statistical Learning Techniques](https://www.alsharif.info/iom530)
+
 
 
 ### Deep Learning
