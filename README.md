@@ -46,7 +46,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 ### Statistics & Probability
 - [Seeing Theory](http://students.brown.edu/seeing-theory/index.html)
 - [Applied Modern Statistical Learning Techniques](https://www.alsharif.info/iom530)
-
+- [Probability Theory & Mathematical Statistics](https://onlinecourses.science.psu.edu/stat414/node/287/)
 
 
 ### Deep Learning
