@@ -40,6 +40,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Math Works](https://www.mathworks.com/help/stats/index.html)
 - [In depth introduction to machine learning - Hastie & Tibshirani](https://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
 - [Machine Learning Youtube Videos](https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/)
+- [CS 229 ― Machine Learning](https://stanford.edu/~shervine/teaching/cs-229.html)
 
 
 
