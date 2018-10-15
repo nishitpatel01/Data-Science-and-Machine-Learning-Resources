@@ -44,12 +44,12 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [UC Business Analytics R programming guide](http://uc-r.github.io/)
 
 
-
 ### Statistics & Probability
 - [Seeing Theory](http://students.brown.edu/seeing-theory/index.html)
 - [Applied Modern Statistical Learning Techniques](https://www.alsharif.info/iom530)
 - [Probability Theory & Mathematical Statistics](https://onlinecourses.science.psu.edu/stat414/node/287/)
-
+- [Probability Distributions](http://blog.cloudera.com/blog/2015/12/common-probability-distributions-the-data-scientists-crib-sheet/
+)
 
 ### Deep Learning
 - [Deep Learning Papers and read](https://www.kdnuggets.com/2018/03/top-20-deep-learning-papers-2018.html)
