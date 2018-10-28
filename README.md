@@ -64,6 +64,10 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [VGGNet Architecture on Imagenet](https://www.pyimagesearch.com/2017/03/20/imagenet-vggnet-resnet-inception-xception-keras/)
 
 
+### Time Series
+- [Forecasting Principles and Practice](https://otexts.org/fpp2/)
+
+
 ### Algorithms
 - [Regression (Glm)](https://web.stanford.edu/~hastie/glmnet/glmnet_alpha.html)
 - [Forecasting using Time Series](http://a-little-book-of-r-for-time-series.readthedocs.io/en/latest/src/timeseries.html)
