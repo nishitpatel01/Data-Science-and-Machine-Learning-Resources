@@ -73,6 +73,8 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Forecasting using Time Series](http://a-little-book-of-r-for-time-series.readthedocs.io/en/latest/src/timeseries.html)
 - [Types of Regressions](https://www.listendata.com/2018/03/regression-analysis.html)
 - [Practice Algorithms](https://algorithms.tutorialhorizon.com/)
+- [Hidden Markov Models](https://s3-ap-southeast-1.amazonaws.com/erbuc/files/c893615b-5f1e-422e-833c-10ac70bd39c9.pdf)
+- [HMM Example: Dishonest Casino](https://www.jennyleestat.com/post/hmm-algorithms/)
 
 
 ### Big Data
