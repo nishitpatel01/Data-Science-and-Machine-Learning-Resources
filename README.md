@@ -75,6 +75,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Practice Algorithms](https://algorithms.tutorialhorizon.com/)
 - [Hidden Markov Models](https://s3-ap-southeast-1.amazonaws.com/erbuc/files/c893615b-5f1e-422e-833c-10ac70bd39c9.pdf)
 - [HMM Example: Dishonest Casino](https://www.jennyleestat.com/post/hmm-algorithms/)
+- [Hidden Markov Model Notes](http://www.cs.cmu.edu/~roni/10601-slides/hmm-for-asr-whw.pdf)
 
 
 ### Big Data
