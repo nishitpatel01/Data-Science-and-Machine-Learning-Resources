@@ -53,6 +53,10 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Probability Distributions](http://blog.cloudera.com/blog/2015/12/common-probability-distributions-the-data-scientists-crib-sheet/
 )
 
+### Linear Algebra
+- [Numerical Analysis](https://relate.cs.illinois.edu/course/cs450-f18/)
+
+
 ### Deep Learning
 - [Deep Learning Papers and read](https://www.kdnuggets.com/2018/03/top-20-deep-learning-papers-2018.html)
 - [Convolutional Neural Network](https://deeplearning4j.org/convolutionalnetwork)
