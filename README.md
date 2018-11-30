@@ -45,6 +45,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [CS 229 ― Machine Learning](https://stanford.edu/~shervine/teaching/cs-229.html)
 - [UC Business Analytics R programming guide](http://uc-r.github.io/)
 - [Machine Learning from CMU](https://alex.smola.org/teaching/cmu2013-10-701/index.html)
+- [ML Cheatsheet - Stanford CS229](https://stanford.edu/~shervine/teaching/cs-229.html)
 
 
 ### Statistics & Probability
