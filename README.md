@@ -84,6 +84,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [HMM Example: Dishonest Casino](https://www.jennyleestat.com/post/hmm-algorithms/)
 - [Hidden Markov Model Notes](http://www.cs.cmu.edu/~roni/10601-slides/hmm-for-asr-whw.pdf)
 - [Kernals Trick(SVM)](http://www.eric-kim.net/eric-kim-net/posts/1/kernel_trick_blog_ekim_12_20_2017.pdf)
+- [Boosting](https://www.r-bloggers.com/machine-learning-basics-gradient-boosting-xgboost/)
 
 
 ### Big Data
