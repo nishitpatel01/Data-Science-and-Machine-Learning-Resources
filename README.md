@@ -110,6 +110,11 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [R Statistcis co](http://r-statistics.co/Linear-Regression.html)
 - [Datacamp Community News](https://www.datacamp.com/community)
 
+
+### Classes from different universities
+- [Stat202 - Data Mining and analysis](http://web.stanford.edu/class/stats202/content/lectures.html)
+
+
 ### Public Datasets
 - [Fig Share](https://figshare.com/browse)
 - [Quandl](https://www.quandl.com/)
@@ -121,6 +126,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [KDNuggets datasets](https://www.kdnuggets.com/datasets/index.html)
 - [Jerry Smith - Data Science Insights](https://datascientistinsights.com/2013/02/02/data-monetization-road-paved-on-top-of-data-sets/)
 - [Data Quest](https://www.dataquest.io/blog/free-datasets-for-projects/)
+
 
 ### Videos on Data
 - [Ted Talks - Making sense of too much data](https://www.ted.com/playlists/56/making_sense_of_too_much_data)
