@@ -20,7 +20,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 
 ### Data Science
 - [Data Science Central](https://www.datasciencecentral.com/)
-- [Medium](https://towardsdatascience.com/)
+- [Towards Data Science](https://towardsdatascience.com/)
 - [Analytics Vidhya](http://analyticsvidhya.com/)
 - [Data Science 101](http://101.datascience.community/)
 - [Data Science News](https://www.datacamp.com/community)
