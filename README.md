@@ -109,6 +109,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Edwin Chen's Blog](http://blog.echen.me/)
 - [R Statistcis co](http://r-statistics.co/Linear-Regression.html)
 - [Datacamp Community News](https://www.datacamp.com/community)
+- [Data Science and Robots - Brandon Rohrer](http://brohrer.github.io/blog.html)
 
 
 ### Classes from different universities
