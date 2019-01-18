@@ -73,6 +73,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Classification Results using Deep Learing](http://rodrigob.github.io/are_we_there_yet/build/classification_datasets_results.html)
 - [VGGNet Architecture on Imagenet](https://www.pyimagesearch.com/2017/03/20/imagenet-vggnet-resnet-inception-xception-keras/)
 - [Deep Learning Book](https://www.deeplearningbook.org/lecture_slides.html)
+- [Andrej Karpathy](https://cs.stanford.edu/people/karpathy/)
 
 
 ### Time Series
