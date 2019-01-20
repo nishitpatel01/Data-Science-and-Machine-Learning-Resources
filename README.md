@@ -148,3 +148,6 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Papers with code](https://github.com/zziz/pwc)
 
 
+### Data Science Interview  Prep
+- [Data Science Interview Questions  - Springboard](https://www.springboard.com/blog/data-science-interview-questions/)
+
