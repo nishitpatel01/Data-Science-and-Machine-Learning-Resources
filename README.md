@@ -58,6 +58,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 )
 - [Applied Data Mining and Statistical Learning (PSU)](https://onlinecourses.science.psu.edu/stat857/)
 - [Intro to Statistics - Distributions, Power, Sample size, Effective trial design and mixed effect models](https://michael-bar.github.io/Introduction-to-statistics/)
+- [Statistics How To](https://www.statisticshowto.datasciencecentral.com/)
 
 
 ### Linear Algebra
