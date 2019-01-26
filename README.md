@@ -53,7 +53,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Seeing Theory](http://students.brown.edu/seeing-theory/index.html)
 - [Applied Modern Statistical Learning Techniques](https://www.alsharif.info/iom530)
 - [Probability Theory & Mathematical Statistics](https://onlinecourses.science.psu.edu/stat414/node/287/)
-- [Probability Distributions](http://blog.cloudera.com/blog/2015/12/common-probability-distributions-the-data-scientists-crib-sheet/
+- [Probability Distributions Overview](http://blog.cloudera.com/blog/2015/12/common-probability-distributions-the-data-scientists-crib-sheet/
 )
 - [Applied Data Mining and Statistical Learning (PSU)](https://onlinecourses.science.psu.edu/stat857/)
 - [Intro to Statistics - Distributions, Power, Sample size, Effective trial design and mixed effect models](https://michael-bar.github.io/Introduction-to-statistics/)
