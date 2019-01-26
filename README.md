@@ -41,10 +41,10 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Kaggle](https://www.kaggle.com/)
 - [Math Works](https://www.mathworks.com/help/stats/index.html)
 - [In depth introduction to machine learning - Hastie & Tibshirani](https://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
-- [CS 229 ― Machine Learning](https://stanford.edu/~shervine/teaching/cs-229.html)
+- [CS 229 ― Machine Learning](http://cs229.stanford.edu/syllabus.html)
 - [UC Business Analytics R programming guide](http://uc-r.github.io/)
 - [Machine Learning from CMU](https://alex.smola.org/teaching/cmu2013-10-701/index.html)
-- [ML Cheatsheet - Stanford CS229](https://stanford.edu/~shervine/teaching/cs-229.html)
+- [ML Cheatsheet - Stanford CS229](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning)
 - [Learning from Data](http://work.caltech.edu/telecourse.html)
 - [The Learning Machine](https://www.thelearningmachine.ai/)
 
