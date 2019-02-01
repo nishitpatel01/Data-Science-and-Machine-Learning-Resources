@@ -1,5 +1,5 @@
-# Data-Science-and-Machine-Learning-Resources
-List of [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) Data Science and Machine Learning Resource that I frequently use
+# [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) Data-Science-and-Machine-Learning-Resources
+List of Data Science and Machine Learning Resource that I frequently use
 
 
 ### R 
@@ -58,6 +58,7 @@ List of [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) Data
 - [Applied Data Mining and Statistical Learning (PSU)](https://onlinecourses.science.psu.edu/stat857/)
 - [Intro to Statistics - Distributions, Power, Sample size, Effective trial design and mixed effect models](https://michael-bar.github.io/Introduction-to-statistics/)
 - [Statistics How To](https://www.statisticshowto.datasciencecentral.com/)
+- [Probability Distributions in R](http://www.r-tutor.com/elementary-statistics/probability-distributions)
 
 
 ### Linear Algebra
