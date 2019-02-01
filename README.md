@@ -79,6 +79,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 
 ### Time Series
 - [Forecasting Principles and Practice](https://otexts.org/fpp2/)
+- [How To Identify Patterns in Time Series Data](http://www.statsoft.com/textbook/time-series-analysis)
 
 
 ### Algorithms
