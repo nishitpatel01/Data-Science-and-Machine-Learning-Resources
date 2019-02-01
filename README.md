@@ -1,5 +1,5 @@
 # Data-Science-and-Machine-Learning-Resources
-List of Data Science and Machine Learning Resource that I frequently use
+List of [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) Data Science and Machine Learning Resource that I frequently use
 
 
 ### R 
