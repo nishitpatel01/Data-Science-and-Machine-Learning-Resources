@@ -59,6 +59,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Intro to Statistics - Distributions, Power, Sample size, Effective trial design and mixed effect models](https://michael-bar.github.io/Introduction-to-statistics/)
 - [Statistics How To](https://www.statisticshowto.datasciencecentral.com/)
 - [Probability Distributions in R](http://www.r-tutor.com/elementary-statistics/probability-distributions)
+- [Mathematical Challenges](https://brilliant.org)
 
 
 ### Linear Algebra
