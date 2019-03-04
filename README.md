@@ -10,6 +10,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Advance R](http://adv-r.had.co.nz/)
 - [R Package Documentation](https://rdrr.io/)
 - [Parallel Processing in R](http://dept.stat.lsa.umich.edu/~jerrick/courses/stat701/notes/parallel.html)
+- [Geo Computation with R](https://geocompr.robinlovelace.net/)
 
 
 ### Python
