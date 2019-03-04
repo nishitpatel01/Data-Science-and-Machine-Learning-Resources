@@ -34,6 +34,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Seaborn pair plots](https://seaborn.pydata.org/generated/seaborn.pairplot.html)
 - [D3 js examples](http://biovisualize.github.io/d3visualization/)
 - [D3 js examples newer version](http://christopheviau.com/d3list/gallery.html)
+- [Data Visualization Society](https://www.datavisualizationsociety.com/)
 
 
 ### Machine Learning
