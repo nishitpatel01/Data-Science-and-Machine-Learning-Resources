@@ -50,6 +50,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [ML Cheatsheet - Stanford CS229](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning)
 - [Learning from Data](http://work.caltech.edu/telecourse.html)
 - [The Learning Machine](https://www.thelearningmachine.ai/)
+- [Machine Learning Plus](https://www.machinelearningplus.com/)
 
 
 ### Statistics & Probability
