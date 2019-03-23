@@ -37,6 +37,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [D3 js examples newer version](http://christopheviau.com/d3list/gallery.html)
 - [Data Visualization Society](https://www.datavisualizationsociety.com/)
 - [A Comprehensive guide to data exploration](https://www.analyticsvidhya.com/blog/2016/01/guide-data-exploration/)
+- [Dash](https://dash.plot.ly/)
 
 
 ### Machine Learning
