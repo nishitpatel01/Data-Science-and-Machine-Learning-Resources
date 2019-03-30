@@ -65,6 +65,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Statistics How To](https://www.statisticshowto.datasciencecentral.com/)
 - [Probability Distributions in R](http://www.r-tutor.com/elementary-statistics/probability-distributions)
 - [Mathematical Challenges](https://brilliant.org)
+- [Statistics Basics & Inference](https://support.minitab.com/en-us/minitab-express/1/help-and-how-to/basic-statistics/inference/supporting-topics/basics/what-is-a-hypothesis-test/)
 
 
 ### Linear Algebra
