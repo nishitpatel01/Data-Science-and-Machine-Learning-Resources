@@ -93,6 +93,10 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [CausalImpact using Baysian structure time series](https://google.github.io/CausalImpact/CausalImpact.html)
 
 
+### Text Analysis
+- [Text Processing - Steps, Tools & Examples](https://medium.com/@datamonsters/text-preprocessing-in-python-steps-tools-and-examples-bf025f872908)
+
+
 ### Algorithms
 - [Regression (Glm)](https://web.stanford.edu/~hastie/glmnet/glmnet_alpha.html)
 - [Forecasting using Time Series](http://a-little-book-of-r-for-time-series.readthedocs.io/en/latest/src/timeseries.html)
