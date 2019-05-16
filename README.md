@@ -92,6 +92,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Applied Time Series Characteristics](https://newonlinecourses.science.psu.edu/stat510/node/47/)
 - [CausalImpact using Baysian structure time series](https://google.github.io/CausalImpact/CausalImpact.html)
 - [Time Series Notes (Oregon State University)](http://stat565.cwick.co.nz/)
+- [Extracting Seasonality and Trend from Data: Decomposition using R](https://anomaly.io/seasonal-trend-decomposition-in-r/)
 
 
 
