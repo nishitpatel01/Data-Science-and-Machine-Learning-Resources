@@ -133,10 +133,13 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [R Statistcis co](http://r-statistics.co/Linear-Regression.html)
 - [Datacamp Community News](https://www.datacamp.com/community)
 - [Data Science and Robots - Brandon Rohrer](http://brohrer.github.io/blog.html)
+- [Lavanya.ai](https://www.notion.so/Lavanya-ai-d43ba856316e47ab98969ab4a613c629)
+
 
 
 ### Classes from different universities
 - [Stat202 - Data Mining and analysis](http://web.stanford.edu/class/stats202/content/lectures.html)
+
 
 
 ### Public Datasets
