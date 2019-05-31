@@ -28,6 +28,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Data Science Plus](https://datascienceplus.com/)
 - [Listen Data](https://www.listendata.com/)
 - [Data Science Specialization Course Notes](http://sux13.github.io/DataScienceSpCourseNotes/)
+- [Various Data Science Tutorials](https://data-flair.training/blogs/data-science-tutorials-home/)
 
 
 ### Data Visualization
