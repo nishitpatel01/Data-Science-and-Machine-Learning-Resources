@@ -154,6 +154,8 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [KDNuggets datasets](https://www.kdnuggets.com/datasets/index.html)
 - [Jerry Smith - Data Science Insights](https://datascientistinsights.com/2013/02/02/data-monetization-road-paved-on-top-of-data-sets/)
 - [Data Quest](https://www.dataquest.io/blog/free-datasets-for-projects/)
+- [Amazon Product Data](http://jmcauley.ucsd.edu/data/amazon/)
+
 
 
 ### Videos on Data
