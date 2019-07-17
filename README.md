@@ -29,6 +29,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Listen Data](https://www.listendata.com/)
 - [Data Science Specialization Course Notes](http://sux13.github.io/DataScienceSpCourseNotes/)
 - [Various Data Science Tutorials](https://data-flair.training/blogs/data-science-tutorials-home/)
+- [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
 
 
 ### Data Visualization
