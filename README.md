@@ -178,6 +178,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Browse State of the art](https://paperswithcode.com/sota)
 - [Data Science Projects](https://www.analyticsvidhya.com/blog/2018/05/24-ultimate-data-science-projects-to-boost-your-knowledge-and-skills/)
 - [Churn Prediction & Survival Analysis](https://carldawson.net/churn-prediction-python/)
+- [Survival Regression with Sci-kit learn](https://nbviewer.jupyter.org/github/sebp/scikit-survival/blob/master/examples/00-introduction.ipynb)
 
 
 ### Data Science Interview  Prep
