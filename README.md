@@ -117,6 +117,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 
 ### Big Data
 - [Big Data - Cognitive AI](https://cognitiveclass.ai/)
+- [Hadoop Ecosystem Table](https://hadoopecosystemtable.github.io/)
 
 
 ### Frequently visiting blogs
