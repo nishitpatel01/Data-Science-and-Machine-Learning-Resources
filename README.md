@@ -17,6 +17,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Learn Python Org](http://www.learnpython.org/en/Hello%2C_World%21)
 - [Python Graph Gallery](https://python-graph-gallery.com/)
 - [Advanced Pandas Tricks & Techniques](https://www.kaggle.com/ashishpatel26/advance-pandas-tricks-and-techniques)
+- [Collection of Jupyter Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
 
 
 ### Data Science
