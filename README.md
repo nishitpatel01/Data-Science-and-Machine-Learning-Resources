@@ -185,7 +185,8 @@ List of Data Science and Machine Learning Resource that I frequently use
 ### Jupyter Notebooks
 - [Survival Regression with Sci-kit learn](https://nbviewer.jupyter.org/github/sebp/scikit-survival/blob/master/examples/00-introduction.ipynb)
 - [Evaluating Survival Regression](https://nbviewer.jupyter.org/github/sebp/scikit-survival/blob/master/examples/evaluating-survival-models.ipynb)
-- [Interesting Collection of Jupyter Notebook](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
+- [Jupyter Notebook by Domain](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
+- [Jupyter Notebooks - DS,ML,TF,AWS,Python](https://github.com/donnemartin/data-science-ipython-notebooks)
 
 
 ### Data Science Interview  Prep
