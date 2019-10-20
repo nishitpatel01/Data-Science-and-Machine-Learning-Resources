@@ -180,6 +180,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Browse State of the art](https://paperswithcode.com/sota)
 - [Data Science Projects](https://www.analyticsvidhya.com/blog/2018/05/24-ultimate-data-science-projects-to-boost-your-knowledge-and-skills/)
 - [Churn Prediction & Survival Analysis](https://carldawson.net/churn-prediction-python/)
+- [Stanford Machine Learning Projects](http://cs229.stanford.edu/proj2018/?source=post_page-----11ee8f95fc96----------------------)
 
 
 ### Jupyter Notebooks
