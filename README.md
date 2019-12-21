@@ -44,6 +44,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 
 
 ### Machine Learning
+- [Google AI Blog](https://ai.googleblog.com/)
 - [kdnuggets](https://www.kdnuggets.com/)
 - [Kaggle](https://www.kaggle.com/)
 - [Math Works](https://www.mathworks.com/help/stats/index.html)
