@@ -173,6 +173,8 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Green Tea Press](http://greenteapress.com/wp/)
 - [Machine learning and Data Science Books](https://www.kdnuggets.com/2018/05/10-more-free-must-read-books-for-machine-learning-and-data-science.html)
 - [Time Series Analysis using R](https://www.stat.pitt.edu/stoffer/tsa4/tsaEZ.pdf)
+- [Free programming ebooks](https://goalkicker.com/)
+
 
 
 ### Misc
