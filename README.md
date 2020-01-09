@@ -190,6 +190,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Stanford Machine Learning Projects](http://cs229.stanford.edu/proj2018/?source=post_page-----11ee8f95fc96----------------------)
 - [Interactive git tutorial for beginners](https://rogerdudler.github.io/git-guide/)
 - [Amazon Science Reasearch and blog](https://www.amazon.science/)
+- [Machine Learning Questions](https://sebastianraschka.com/faq/index.html)
 
 
 
