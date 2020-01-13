@@ -143,6 +143,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Data Science and Robots - Brandon Rohrer](http://brohrer.github.io/blog.html)
 - [Lavanya.ai](https://www.notion.so/Lavanya-ai-d43ba856316e47ab98969ab4a613c629)
 - [Data Flair](https://data-flair.training/blogs/)
+- [Fast.ai Blog](https://www.fast.ai)
 
 
 
