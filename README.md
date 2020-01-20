@@ -144,6 +144,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Lavanya.ai](https://www.notion.so/Lavanya-ai-d43ba856316e47ab98969ab4a613c629)
 - [Data Flair](https://data-flair.training/blogs/)
 - [Fast.ai Blog](https://www.fast.ai)
+- [Domino Blog for Code, ML and Data Science](https://github.com/nishitpatel01/Data-Science-and-Machine-Learning-Resources)
 
 
 
