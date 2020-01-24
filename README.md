@@ -147,6 +147,9 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Data Flair](https://data-flair.training/blogs/)
 - [Fast.ai Blog](https://www.fast.ai)
 - [Domino Blog for Code, ML and Data Science](https://github.com/nishitpatel01/Data-Science-and-Machine-Learning-Resources)
+- [Data36](https://data36.com/)
+- [Edwin Chen Blog](http://blog.echen.me/)
+
 
 
 
