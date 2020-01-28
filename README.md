@@ -213,3 +213,10 @@ List of Data Science and Machine Learning Resource that I frequently use
 ### Data Science Interview  Prep
 - [Data Science Interview Questions  - Springboard](https://www.springboard.com/blog/data-science-interview-questions/)
 
+
+### Data Science & Machine Learning Podcasts
+- [Dataframed by Datacamp](https://www.datacamp.com/community/podcast)
+- [Data Skeptic by Kyle Polich](https://dataskeptic.com/)
+- [Linear Diagressions](http://lineardigressions.com/)
+
+
