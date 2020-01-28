@@ -20,6 +20,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Collection of Jupyter Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
 - [Streamlit library for ML visuals](https://github.com/streamlit/streamlit/)
 - [Python Machine learning Notebooks](https://github.com/rasbt/python-machine-learning-book-3rd-edition)
+- [Automate Stuff with Python](https://automatetheboringstuff.com/)
 
 
 
