@@ -149,8 +149,6 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Fast.ai Blog](https://www.fast.ai)
 - [Domino Blog for Code, ML and Data Science](https://blog.dominodatalab.com/)
 - [Data36](https://data36.com/)
-- [Edwin Chen Blog](http://blog.echen.me/)
-
 
 
 
