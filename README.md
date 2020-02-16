@@ -173,6 +173,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Amazon Product Data](http://jmcauley.ucsd.edu/data/amazon/)
 - [Sentiment Analysis Datasets](https://lionbridge.ai/datasets/15-free-sentiment-analysis-datasets-for-machine-learning/)
 - [Machine Learning A-Z: Download Practice Datasets](https://www.superdatascience.com/pages/machine-learning)
+- [Microsoft Research Open Data](https://msropendata.com/)
 
 
 
