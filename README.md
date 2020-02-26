@@ -175,6 +175,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Machine Learning A-Z: Download Practice Datasets](https://www.superdatascience.com/pages/machine-learning)
 - [Microsoft Research Open Data](https://msropendata.com/)
 - [Data Hub](https://datahub.io/)
+- [Collection of NLP datasets](https://quantumstat.com/dataset/dataset.html)
 
 
 
