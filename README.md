@@ -96,6 +96,9 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Deep Learning Book](https://www.deeplearningbook.org/lecture_slides.html)
 - [Andrej Karpathy](https://cs.stanford.edu/people/karpathy/)
 - [Dive into Deep Learning](http://d2l.ai/index.html)
+- [Deep Learning Examples in PyTorch by Nvidia](https://github.com/NVIDIA/DeepLearningExamples/tree/master/PyTorch)
+- [eep Learning Examples in TensorFlow by Nvidia](https://github.com/NVIDIA/DeepLearningExamples/tree/master/TensorFlow)
+
 
 
 ### Time Series
