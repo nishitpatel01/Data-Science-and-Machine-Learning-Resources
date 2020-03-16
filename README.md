@@ -208,6 +208,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Interactive git tutorial for beginners](https://rogerdudler.github.io/git-guide/)
 - [Amazon Science Reasearch and blog](https://www.amazon.science/)
 - [Machine Learning Questions](https://sebastianraschka.com/faq/index.html)
+- [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
 
 
 
