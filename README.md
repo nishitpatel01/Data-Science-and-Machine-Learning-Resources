@@ -63,6 +63,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Machine Learning Plus](https://www.machinelearningplus.com/)
 - [Machine Learning Resources from Sebastian Raschka](https://sebastianraschka.com/resources.html)
 - [Machine Learning Notebooks](https://github.com/ethen8181/machine-learning)
+- [Machine Learning for beginners](https://mlcourse.ai/)
 
 
 
