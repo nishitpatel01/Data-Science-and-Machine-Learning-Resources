@@ -159,6 +159,15 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [AI Show](https://channel9.msdn.com/Shows/AI-Show/An-Intuitive-Approach-to-Machine-Learning-Models-Part-1-of-4)
 
 
+### Tech Blogs from Various Organization
+- [Netflix Tech Blog for Data Science](https://netflixtechblog.com/tagged/data-science)
+- [Google AI Blog](https://ai.googleblog.com/)
+- [AirBnb Engineering & Data Science](https://airbnb.io/)
+- [Facebook Research](https://research.fb.com/blog/?cat=6)
+- [The Yhat Blog](http://blog.yhat.com/)
+- [Uber Engineering](https://eng.uber.com/category/articles/ai/)
+
+
 
 ### Classes from different universities
 - [Stat202 - Data Mining and analysis](http://web.stanford.edu/class/stats202/content/lectures.html)
