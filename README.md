@@ -199,6 +199,8 @@ List of Data Science and Machine Learning Resource that I frequently use
 
 ### Videos on Data
 - [Ted Talks - Making sense of too much data](https://www.ted.com/playlists/56/making_sense_of_too_much_data)
+- [Andrew Ng's ML Lectures - Stanford](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
+
 
 
 ### Free Ebooks
