@@ -117,6 +117,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 ### Text Analysis/NLP
 - [Text Processing - Steps, Tools & Examples](https://medium.com/@datamonsters/text-preprocessing-in-python-steps-tools-and-examples-bf025f872908)
 - [Document Classification: 7 pragmatic approaches for small datasets](https://neptune.ai/blog/document-classification-small-datasets?utm_source=slack&utm_medium=post&utm_campaign=blog-document-classification-small-datasets)
+- [Collection of Colab notebook based on deep learning & transformer models](https://notebooks.quantumstat.com/)
 
 
 
