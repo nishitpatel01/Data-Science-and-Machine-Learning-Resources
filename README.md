@@ -210,6 +210,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Time Series Analysis using R](https://www.stat.pitt.edu/stoffer/tsa4/tsaEZ.pdf)
 - [Free programming ebooks](https://goalkicker.com/)
 - [Machine Learning](https://livebook.manning.com/book/machine-learning-bookcamp/welcome/v-1/)
+- [65 Free machine learnign and data books](https://towardsdatascience.com/springer-has-released-65-machine-learning-and-data-books-for-free-961f8181f189)
 
 
 
