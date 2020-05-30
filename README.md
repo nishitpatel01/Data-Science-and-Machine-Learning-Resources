@@ -238,6 +238,10 @@ List of Data Science and Machine Learning Resource that I frequently use
 
 ### Data Science Interview  Prep
 - [Data Science Interview Questions  - Springboard](https://www.springboard.com/blog/data-science-interview-questions/)
+- [Data Science Interviews by Category](https://github.com/alexeygrigorev/data-science-interviews)
+- [120 Data Science Interview Questions](https://github.com/kojino/120-Data-Science-Interview-Questions)
+- [Facebook Interview Prep](https://github.com/Christopher-Hsieh/facebook-interview-prep)
+
 
 
 ### Data Science & Machine Learning Podcasts
