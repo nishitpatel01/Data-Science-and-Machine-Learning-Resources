@@ -22,7 +22,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Python Machine learning Notebooks](https://github.com/rasbt/python-machine-learning-book-3rd-edition)
 - [Automate Stuff with Python](https://automatetheboringstuff.com/)
 - [Python from NSA](https://nsa.sfo2.digitaloceanspaces.com/comp3321.pdf)
-- [awesome Python](https://awesome-python.com/)
+- [Awesome Python](https://awesome-python.com/)
 
 
 
