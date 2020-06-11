@@ -243,11 +243,16 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Facebook Interview Prep](https://github.com/Christopher-Hsieh/facebook-interview-prep)
 
 
-
 ### Data Science & Machine Learning Podcasts
 - [Dataframed by Datacamp](https://www.datacamp.com/community/podcast)
 - [Data Skeptic by Kyle Polich](https://dataskeptic.com/)
 - [Linear Diagressions](http://lineardigressions.com/)
+
+
+### Data Structure & Algorithms
+- [Geeks for Geeks](https://www.geeksforgeeks.org/)
+- [Program Creek](https://www.programcreek.com/)
+- [Career Cup](https://www.careercup.com/)
 
 
 ### Git 
