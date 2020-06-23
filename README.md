@@ -102,6 +102,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Dive into Deep Learning](http://d2l.ai/index.html)
 - [Deep Learning Examples in PyTorch by Nvidia](https://github.com/NVIDIA/DeepLearningExamples/tree/master/PyTorch)
 - [Deep Learning Examples in TensorFlow by Nvidia](https://github.com/NVIDIA/DeepLearningExamples/tree/master/TensorFlow)
+- [Curve Detectors](https://distill.pub/2020/circuits/curve-detectors/)
 
 
 
@@ -162,6 +163,8 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Domino Blog for Code, ML and Data Science](https://blog.dominodatalab.com/)
 - [Data36](https://data36.com/)
 - [AI Show](https://channel9.msdn.com/Shows/AI-Show/An-Intuitive-Approach-to-Machine-Learning-Models-Part-1-of-4)
+- [Distill.pub](https://distill.pub/)
+
 
 
 ### Tech blogs from various organizations
