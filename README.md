@@ -88,6 +88,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Numerical Analysis](https://relate.cs.illinois.edu/course/cs450-f18/)
 
 
+
 ### Deep Learning
 - [Deep Learning Papers and read](https://www.kdnuggets.com/2018/03/top-20-deep-learning-papers-2018.html)
 - [Convolutional Neural Network](https://deeplearning4j.org/convolutionalnetwork)
@@ -103,6 +104,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Deep Learning Examples in PyTorch by Nvidia](https://github.com/NVIDIA/DeepLearningExamples/tree/master/PyTorch)
 - [Deep Learning Examples in TensorFlow by Nvidia](https://github.com/NVIDIA/DeepLearningExamples/tree/master/TensorFlow)
 - [Curve Detectors](https://distill.pub/2020/circuits/curve-detectors/)
+- [Deep Learning Drizzle](https://deep-learning-drizzle.github.io/)
 
 
 
