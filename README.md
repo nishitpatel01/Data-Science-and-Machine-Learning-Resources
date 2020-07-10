@@ -105,6 +105,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Deep Learning Examples in TensorFlow by Nvidia](https://github.com/NVIDIA/DeepLearningExamples/tree/master/TensorFlow)
 - [Curve Detectors](https://distill.pub/2020/circuits/curve-detectors/)
 - [Deep Learning Drizzle](https://deep-learning-drizzle.github.io/)
+- [Full Stack Deep Learning - training machine learning models to deploying AI systems in the real world](https://course.fullstackdeeplearning.com/)
 
 
 
