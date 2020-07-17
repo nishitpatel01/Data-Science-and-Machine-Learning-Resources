@@ -248,6 +248,8 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Data Science Interviews by Category](https://github.com/alexeygrigorev/data-science-interviews)
 - [120 Data Science Interview Questions](https://github.com/kojino/120-Data-Science-Interview-Questions)
 - [Facebook Interview Prep](https://github.com/Christopher-Hsieh/facebook-interview-prep)
+- [Software/ML Engineer Interview Prep](https://engineerseekingfire.com/how-to-prepare-for-software-engineering-interviews/)
+- [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/introduction)
 
 
 ### Data Science & Machine Learning Podcasts
