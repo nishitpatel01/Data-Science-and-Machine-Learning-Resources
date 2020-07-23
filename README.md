@@ -145,6 +145,11 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Hadoop Ecosystem Table](https://hadoopecosystemtable.github.io/)
 
 
+### Spark
+- [Data Scientist's guide to Apache Spark](https://pages.databricks.com/rs/094-YMS-629/images/data-scientists-guide-apache-spark-NEW-BRAND-051520-v4.pdf?mkt_tok=eyJpIjoiT0RKa01ESTJaV1UxTkRkaiIsInQiOiI1Z2NTbXk1RThENm9YbEliNlwvbTc2VjNVVkYyRXB1ZnJoV0hITm9DK1A2clBwXC8reE1LRWU4TndSXC9WWmwzb3lrWVQ2eUlqcW9lRU5nZlNidElha0UzOENrYlQ1WUI5NENtamZEbXhRM01iVSs3OGhWUlpDUEpLK0NyS210MVRNNyJ9)
+
+
+
 ### Frequently visiting blogs
 - [Chris Albon](https://chrisalbon.com/)
 - [DS Lore](http://nadbordrozd.github.io/)
