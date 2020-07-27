@@ -239,6 +239,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Stanford Machine Learning Projects](http://cs229.stanford.edu/proj2018/?source=post_page-----11ee8f95fc96----------------------)
 - [Amazon Science Reasearch and blog](https://www.amazon.science/)
 - [Machine Learning Questions](https://sebastianraschka.com/faq/index.html)
+- [Graph database for beginners](https://go.neo4j.com/rs/710-RRC-335/images/Graph_Databases_for_Beginners.pdf?_ga=2.210920725.1607138034.1595889787-1206924530.1595889787)
 
 
 
