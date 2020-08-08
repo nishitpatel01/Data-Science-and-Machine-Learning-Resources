@@ -58,7 +58,6 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Kaggle](https://www.kaggle.com/)
 - [Math Works](https://www.mathworks.com/help/stats/index.html)
 - [In depth introduction to machine learning - Hastie & Tibshirani](https://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
-- [CS 229 ― Machine Learning](http://cs229.stanford.edu/syllabus.html)
 - [UC Business Analytics R programming guide](http://uc-r.github.io/)
 - [Machine Learning from CMU](https://alex.smola.org/teaching/cmu2013-10-701/index.html)
 - [ML Cheatsheet - Stanford CS229](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning)
@@ -78,8 +77,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Seeing Theory](http://students.brown.edu/seeing-theory/index.html)
 - [Applied Modern Statistical Learning Techniques](https://www.alsharif.info/iom530)
 - [Probability Theory & Mathematical Statistics](https://onlinecourses.science.psu.edu/stat414/node/287/)
-- [Probability Distributions Overview](http://blog.cloudera.com/blog/2015/12/common-probability-distributions-the-data-scientists-crib-sheet/
-)
+- [Probability Distributions Overview](http://blog.cloudera.com/blog/2015/12/common-probability-distributions-the-data-scientists-crib-sheet/)
 - [Applied Data Mining and Statistical Learning (PSU)](https://onlinecourses.science.psu.edu/stat857/)
 - [Intro to Statistics - Distributions, Power, Sample size, Effective trial design and mixed effect models](https://michael-bar.github.io/Introduction-to-statistics/)
 - [Statistics How To](https://www.statisticshowto.datasciencecentral.com/)
@@ -191,6 +189,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 
 
 ### Classes from different universities
+- [CS 229 ― Machine Learning](http://cs229.stanford.edu/syllabus.html)
 - [Stat202 - Data Mining and analysis](http://web.stanford.edu/class/stats202/content/lectures.html)
 - [Columbia University Applied Machine Learning by Andreas Muller](http://www.cs.columbia.edu/~amueller/comsw4995s18/schedule/)
 
