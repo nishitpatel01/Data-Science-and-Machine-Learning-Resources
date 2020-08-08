@@ -38,6 +38,8 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Data Science Specialization Course Notes](http://sux13.github.io/DataScienceSpCourseNotes/)
 - [Various Data Science Tutorials](https://data-flair.training/blogs/data-science-tutorials-home/)
 - [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
+- [Unofficial Google Data Science Blog](http://www.unofficialgoogledatascience.com/)
+
 
 
 ### Data Visualization
@@ -68,6 +70,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Machine Learning for beginners](https://mlcourse.ai/)
 - [Curated Machine Learning Resources](https://madewithml.com/)
 - [Machine Learning Toolbox](https://amitness.com/toolbox/)
+- [Rules of Machine Learning: Best Practices for ML Engineering from Google](https://developers.google.com/machine-learning/guides/rules-of-ml)
 
 
 
