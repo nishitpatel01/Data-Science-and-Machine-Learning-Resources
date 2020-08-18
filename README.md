@@ -265,6 +265,8 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Dataframed by Datacamp](https://www.datacamp.com/community/podcast)
 - [Data Skeptic by Kyle Polich](https://dataskeptic.com/)
 - [Linear Diagressions](http://lineardigressions.com/)
+- [Gradient Dissent](https://www.wandb.com/podcast)
+
 
 
 ### Data Structure & Algorithms
