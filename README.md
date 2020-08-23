@@ -175,6 +175,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [AI Show](https://channel9.msdn.com/Shows/AI-Show/An-Intuitive-Approach-to-Machine-Learning-Models-Part-1-of-4)
 - [Distill.pub](https://distill.pub/)
 - [Jay Alammar - Blog on NLP and Deep Learning](http://jalammar.github.io/)
+- [Open AI Blog](https://openai.com/blog/)
 
 
 
