@@ -260,6 +260,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Facebook Interview Prep](https://github.com/Christopher-Hsieh/facebook-interview-prep)
 - [Software/ML Engineer Interview Prep](https://engineerseekingfire.com/how-to-prepare-for-software-engineering-interviews/)
 - [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/introduction)
+- [DS Interview Questions-Answers](https://towardsdatascience.com/120-data-scientist-interview-questions-and-answers-you-should-know-in-2021-b2faf7de8f3e)
 
 
 ### Data Science & Machine Learning Podcasts
@@ -267,7 +268,6 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Data Skeptic by Kyle Polich](https://dataskeptic.com/)
 - [Linear Diagressions](http://lineardigressions.com/)
 - [Gradient Dissent](https://www.wandb.com/podcast)
-
 
 
 ### Data Structure & Algorithms
