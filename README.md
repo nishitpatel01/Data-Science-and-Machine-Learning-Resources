@@ -70,6 +70,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Curated Machine Learning Resources](https://madewithml.com/)
 - [Machine Learning Toolbox](https://amitness.com/toolbox/)
 - [Rules of Machine Learning: Best Practices for ML Engineering from Google](https://developers.google.com/machine-learning/guides/rules-of-ml)
+- [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/ml-intro)
 
 
 
