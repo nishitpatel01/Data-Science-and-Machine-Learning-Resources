@@ -278,6 +278,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Career Cup](https://www.careercup.com/)
 - [A Gentle Introduction to Algorithm Complexity Analysis](A Gentle Introduction to Algorithm Complexity Analysis)
 - [Always be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
+- [Competitive Programming Tutorials](https://www.topcoder.com/community/competitive-programming/tutorials/)
 
 
 
