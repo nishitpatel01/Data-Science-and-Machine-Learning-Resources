@@ -286,6 +286,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [A Gentle Introduction to Algorithm Complexity Analysis](http://discrete.gr/complexity/)
 - [Always be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
 - [Competitive Programming Tutorials](https://www.topcoder.com/community/competitive-programming/tutorials/)
+- [Python for Algorithms & Data Structure - Interview](https://nbviewer.jupyter.org/github/jmportilla/Python-for-Algorithms--Data-Structures--and-Interviews/tree/master/)
 
 
 
