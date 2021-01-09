@@ -75,6 +75,11 @@ List of Data Science and Machine Learning Resource that I frequently use
 
 
 
+### MLOps
+- [MLOps References - Curated list of MLOps resources](https://ml-ops.org/content/references.html)
+
+
+
 ### Statistics & Probability
 - [Seeing Theory](http://students.brown.edu/seeing-theory/index.html)
 - [Applied Modern Statistical Learning Techniques](https://www.alsharif.info/iom530)
