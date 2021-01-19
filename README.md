@@ -95,8 +95,10 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Statistics Basics & Inference](https://support.minitab.com/en-us/minitab-express/1/help-and-how-to/basic-statistics/inference/supporting-topics/basics/what-is-a-hypothesis-test/)
 
 
+
 ### Linear Algebra
 - [Numerical Analysis](https://relate.cs.illinois.edu/course/cs450-f18/)
+- [Introduction fo Linear Algebra for Applied Machine Learnign with Python](https://pabloinsente.github.io/intro-linear-algebra)
 
 
 
