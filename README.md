@@ -241,6 +241,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Free programming ebooks](https://goalkicker.com/)
 - [Machine Learning](https://livebook.manning.com/book/machine-learning-bookcamp/welcome/v-1/)
 - [65 Free machine learnign and data books](https://towardsdatascience.com/springer-has-released-65-machine-learning-and-data-books-for-free-961f8181f189)
+- [Free Programming and ML pdf books](https://www.pythonstacks.com/free-books/)
 
 
 
