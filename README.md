@@ -295,6 +295,9 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Big O Cheatsheet](https://www.bigocheatsheet.com/)
 
 
+### System Designs & Distributed Systems
+ - [SYSTEM DESIGN INTERVIEW- AN INSIDER'S GUIDE](https://systeminterview.com/)
+
 
 ### Git 
 - [Git Explorer](https://gitexplorer.com/)
