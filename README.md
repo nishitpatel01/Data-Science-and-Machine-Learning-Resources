@@ -293,6 +293,8 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Python for Algorithms & Data Structure - Interview](https://nbviewer.jupyter.org/github/jmportilla/Python-for-Algorithms--Data-Structures--and-Interviews/tree/master/)
 - [Skill.dev](https://skilled.dev/course)
 - [Big O Cheatsheet](https://www.bigocheatsheet.com/)
+- [The Algorithms Repo](https://github.com/TheAlgorithms)
+
 
 
 ### System Designs & Distributed Systems
