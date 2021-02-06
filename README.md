@@ -294,6 +294,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Skill.dev](https://skilled.dev/course)
 - [Big O Cheatsheet](https://www.bigocheatsheet.com/)
 - [The Algorithms Repo](https://github.com/TheAlgorithms)
+- [Interview Cake (Glossary)](https://www.interviewcake.com/)
 
 
 
