@@ -291,7 +291,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Always be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
 - [Competitive Programming Tutorials](https://www.topcoder.com/community/competitive-programming/tutorials/)
 - [Python for Algorithms & Data Structure - Interview](https://nbviewer.jupyter.org/github/jmportilla/Python-for-Algorithms--Data-Structures--and-Interviews/tree/master/)
-- [Skill.dev](https://skilled.dev/course)
+- [Skilled.dev](https://skilled.dev/course)
 - [Big O Cheatsheet](https://www.bigocheatsheet.com/)
 - [The Algorithms Repo](https://github.com/TheAlgorithms)
 - [Interview Cake (Glossary)](https://www.interviewcake.com/)
