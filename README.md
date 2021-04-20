@@ -76,6 +76,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Applied ML - Curated list of papers, articles, and blogs on data science & machine learning in production](https://github.com/eugeneyan/applied-ml)
 - [Best of Machine Learning - Python](https://github.com/ml-tooling/best-of-ml-python)
 - [Machine Learning Glossary](https://ml-cheatsheet.readthedocs.io/en/latest/index.html)
+- [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 
 
 
