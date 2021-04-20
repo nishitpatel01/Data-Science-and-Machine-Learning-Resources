@@ -22,6 +22,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Automate Stuff with Python](https://automatetheboringstuff.com/)
 - [Python from NSA](https://nsa.sfo2.digitaloceanspaces.com/comp3321.pdf)
 - [Awesome Python](https://awesome-python.com/)
+- [Awesome Python Github](https://github.com/vinta/awesome-python#readme)
 - [Comprehensice python cheatsheet](https://gto76.github.io/python-cheatsheet)
 - [Real Python](https://realpython.com/)
 
