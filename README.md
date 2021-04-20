@@ -310,4 +310,5 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Git Explorer](https://gitexplorer.com/)
 - [Interactive git tutorial for beginners](https://rogerdudler.github.io/git-guide/)
 - [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
+- [Awesome Git](https://github.com/dictcp/awesome-git)
 
