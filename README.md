@@ -228,6 +228,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Microsoft Research Open Data](https://msropendata.com/)
 - [Data Hub](https://datahub.io/)
 - [Collection of NLP datasets](https://quantumstat.com/dataset/dataset.html)
+- [John Snow Labs NLP & Healthcare datasets](https://www.johnsnowlabs.com/welcome-to-the-healthcare-data-library/)
 
 
 
