@@ -141,6 +141,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Document Classification: 7 pragmatic approaches for small datasets](https://neptune.ai/blog/document-classification-small-datasets?utm_source=slack&utm_medium=post&utm_campaign=blog-document-classification-small-datasets)
 - [Collection of Colab notebook based on deep learning & transformer models](https://notebooks.quantumstat.com/)
 - [NLP on Spark](https://nlp.johnsnowlabs.com/)
+- [NLP Index](https://index.quantumstat.com/)
 
 
 
