@@ -280,6 +280,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Software/ML Engineer Interview Prep](https://engineerseekingfire.com/how-to-prepare-for-software-engineering-interviews/)
 - [Tech Interview Handbook](https://yangshun.github.io/tech-interview-handbook/introduction)
 - [DS Interview Questions-Answers](https://towardsdatascience.com/120-data-scientist-interview-questions-and-answers-you-should-know-in-2021-b2faf7de8f3e)
+- [Interview Query](https://www.interviewquery.com/)
 
 
 ### Data Science & Machine Learning Podcasts
