@@ -262,6 +262,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Amazon Science Reasearch and blog](https://www.amazon.science/)
 - [Machine Learning Questions](https://sebastianraschka.com/faq/index.html)
 - [Graph database for beginners](https://go.neo4j.com/rs/710-RRC-335/images/Graph_Databases_for_Beginners.pdf?_ga=2.210920725.1607138034.1595889787-1206924530.1595889787)
+- [Top Github Repos](https://towardsdatascience.com/top-10-github-repos-to-bookmark-right-now-b0bc62436ffc)
 
 
 
