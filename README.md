@@ -83,6 +83,8 @@ List of Data Science and Machine Learning Resource that I frequently use
 ### MLOps
 - [MLOps References - Curated list of MLOps resources](https://ml-ops.org/content/references.html)
 - [Industrialization of ML Model](https://medium.com/swlh/industrialization-of-a-ml-model-using-airflow-and-apache-beam-5a5338f20184)
+- [Awesome MLOps](https://github.com/visenger/awesome-mlops)
+
 
 
 ### Statistics & Probability
