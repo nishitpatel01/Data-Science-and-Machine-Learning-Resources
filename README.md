@@ -25,7 +25,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Awesome Python Github](https://github.com/vinta/awesome-python#readme)
 - [Comprehensice python cheatsheet](https://gto76.github.io/python-cheatsheet)
 - [Real Python](https://realpython.com/)
-
+- [Function Decorators](https://stackoverflow.com/questions/739654/how-to-make-function-decorators-and-chain-them-together)
 
 
 ### Data Science
