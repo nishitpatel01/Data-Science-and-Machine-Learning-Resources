@@ -307,6 +307,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Interview Cake (Glossary)](https://www.interviewcake.com/)
 - [Algorithm & Coding Interviews](https://github.com/liyin2015/Algorithms-and-Coding-Interviews/tree/master/)
 - [SDE Skills](https://beta.sdeskills.com/)
+- [Tech Interview Handbook](https://techinterviewhandbook.org/algorithms/algorithms-introduction/)
 
 
 
