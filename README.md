@@ -78,6 +78,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Machine Learning Glossary](https://ml-cheatsheet.readthedocs.io/en/latest/index.html)
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 - [Explanable AI](https://christophm.github.io/interpretable-ml-book/)
+- [Fairness and Machine Learning](https://fairmlbook.org/)
 
 
 
