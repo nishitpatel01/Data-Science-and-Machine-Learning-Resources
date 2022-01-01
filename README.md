@@ -40,6 +40,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Various Data Science Tutorials](https://data-flair.training/blogs/data-science-tutorials-home/)
 - [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
 - [Unofficial Google Data Science Blog](http://www.unofficialgoogledatascience.com/)
+- [Data Science Cheat Sheet](https://medium.com/@anushkhabajpai/top-data-science-cheat-sheets-ml-dl-python-r-sql-maths-statistics-5239d4568225)
 
 
 
