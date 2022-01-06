@@ -128,6 +128,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Deep Learning Drizzle](https://deep-learning-drizzle.github.io/)
 - [Full Stack Deep Learning - training machine learning models to deploying AI systems in the real world](https://course.fullstackdeeplearning.com/)
 - [Practical Deep Learning by Fasi.ai](https://www.fast.ai/)
+- [Transformers from Scratch](https://e2eml.school/transformers.html)
 
 
 
@@ -235,6 +236,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Data Hub](https://datahub.io/)
 - [Collection of NLP datasets](https://quantumstat.com/dataset/dataset.html)
 - [John Snow Labs NLP & Healthcare datasets](https://www.johnsnowlabs.com/welcome-to-the-healthcare-data-library/)
+- [Open Source Audio datasets](https://towardsdatascience.com/40-open-source-audio-datasets-for-ml-59dc39d48f06)
 
 
 
