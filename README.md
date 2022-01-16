@@ -80,6 +80,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 - [Explanable AI](https://christophm.github.io/interpretable-ml-book/)
 - [Fairness and Machine Learning](https://fairmlbook.org/)
+- [Google Reseatch 2021: Themes and beyond](https://ai.googleblog.com/2022/01/google-research-themes-from-2021-and.html)
 
 
 
