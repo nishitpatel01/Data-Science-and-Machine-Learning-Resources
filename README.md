@@ -82,6 +82,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Fairness and Machine Learning](https://fairmlbook.org/)
 - [Google Reseatch 2021: Themes and beyond](https://ai.googleblog.com/2022/01/google-research-themes-from-2021-and.html)
 - [Machine Learning Complete - Notebooks & demos](https://github.com/Nyandwi/machine_learning_complete)
+- [A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers](https://project-awesome.org/owainlewis/awesome-artificial-intelligence?utm_campaign=Artificial%2BIntelligence%2BWeekly&utm_medium=web&utm_source=Artificial_Intelligence_Weekly_277)
 
 
 ### MLOps
