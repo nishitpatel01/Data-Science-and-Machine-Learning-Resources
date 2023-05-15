@@ -21,6 +21,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 
 ### LLM/GenAI Research Papers
 - [Attension is all you need](https://arxiv.org/pdf/1706.03762.pdf)
+- [BERTL Pre-training of Deep Biirectional transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
 - [LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attension](https://daleonai.com/transformers-explained)
 - [Paramter-Efficient Transfer Learning for NLP](http://proceedings.mlr.press/v97/houlsby19a/houlsby19a.pdf)
 
