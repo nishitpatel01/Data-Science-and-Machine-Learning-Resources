@@ -5,11 +5,17 @@ List of Data Science and Machine Learning Resource that I frequently use
 ### Large Language Models (LLMs)
 #### Basic Resources & Transformers
 - [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
+- [Transformer Explained](https://daleonai.com/transformers-explained)
 - [Understanding Large Language Models](https://magazine.sebastianraschka.com/p/understanding-large-language-models)
 
 
 ### Generartive AI 
 (coming soon...)
+
+
+### LLM/GenAI Research Papers
+- [Attension is all you need](https://arxiv.org/pdf/1706.03762.pdf)
+- [LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attension](https://daleonai.com/transformers-explained)
 
 
 ### Data Science
