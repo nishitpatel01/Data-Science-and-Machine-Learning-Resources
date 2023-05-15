@@ -2,6 +2,31 @@
 List of Data Science and Machine Learning Resource that I frequently use
 
 
+### Large Language Models (LLMs)
+#### Basic Resources & Transformers
+- [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
+- [Understanding Large Language Models](https://magazine.sebastianraschka.com/p/understanding-large-language-models)
+
+
+### Generartive AI 
+(coming soon...)
+
+
+### Data Science
+- [Data Science Central](https://www.datasciencecentral.com/)
+- [Towards Data Science](https://towardsdatascience.com/)
+- [Analytics Vidhya](http://analyticsvidhya.com/)
+- [Data Science 101](http://101.datascience.community/)
+- [Data Science News](https://www.datacamp.com/community)
+- [Data Science Plus](https://datascienceplus.com/)
+- [Listen Data](https://www.listendata.com/)
+- [Data Science Specialization Course Notes](http://sux13.github.io/DataScienceSpCourseNotes/)
+- [Various Data Science Tutorials](https://data-flair.training/blogs/data-science-tutorials-home/)
+- [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
+- [Unofficial Google Data Science Blog](http://www.unofficialgoogledatascience.com/)
+- [Data Science Cheat Sheet](https://medium.com/@anushkhabajpai/top-data-science-cheat-sheets-ml-dl-python-r-sql-maths-statistics-5239d4568225)
+
+
 ### R 
 - [R Cookbook](http://www.cookbook-r.com/)
 - [R Blogdown](https://bookdown.org/yihui/blogdown/)
@@ -26,32 +51,6 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Comprehensice python cheatsheet](https://gto76.github.io/python-cheatsheet)
 - [Real Python](https://realpython.com/)
 - [Function Decorators](https://stackoverflow.com/questions/739654/how-to-make-function-decorators-and-chain-them-together)
-
-
-### Data Science
-- [Data Science Central](https://www.datasciencecentral.com/)
-- [Towards Data Science](https://towardsdatascience.com/)
-- [Analytics Vidhya](http://analyticsvidhya.com/)
-- [Data Science 101](http://101.datascience.community/)
-- [Data Science News](https://www.datacamp.com/community)
-- [Data Science Plus](https://datascienceplus.com/)
-- [Listen Data](https://www.listendata.com/)
-- [Data Science Specialization Course Notes](http://sux13.github.io/DataScienceSpCourseNotes/)
-- [Various Data Science Tutorials](https://data-flair.training/blogs/data-science-tutorials-home/)
-- [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
-- [Unofficial Google Data Science Blog](http://www.unofficialgoogledatascience.com/)
-- [Data Science Cheat Sheet](https://medium.com/@anushkhabajpai/top-data-science-cheat-sheets-ml-dl-python-r-sql-maths-statistics-5239d4568225)
-
-
-
-### Data Visualization
-- [Flowing Data](http://flowingdata.com/)
-- [Seaborn pair plots](https://seaborn.pydata.org/generated/seaborn.pairplot.html)
-- [D3 js examples](http://biovisualize.github.io/d3visualization/)
-- [D3 js examples newer version](http://christopheviau.com/d3list/gallery.html)
-- [Data Visualization Society](https://www.datavisualizationsociety.com/)
-- [A Comprehensive guide to data exploration](https://www.analyticsvidhya.com/blog/2016/01/guide-data-exploration/)
-- [Dash](https://dash.plot.ly/)
 
 
 ### Machine Learning
@@ -91,7 +90,6 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Awesome MLOps](https://github.com/visenger/awesome-mlops)
 
 
-
 ### Statistics & Probability
 - [Seeing Theory](http://students.brown.edu/seeing-theory/index.html)
 - [Applied Modern Statistical Learning Techniques](https://www.alsharif.info/iom530)
@@ -105,11 +103,9 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Statistics Basics & Inference](https://support.minitab.com/en-us/minitab-express/1/help-and-how-to/basic-statistics/inference/supporting-topics/basics/what-is-a-hypothesis-test/)
 
 
-
 ### Linear Algebra
 - [Numerical Analysis](https://relate.cs.illinois.edu/course/cs450-f18/)
 - [Introduction fo Linear Algebra for Applied Machine Learnign with Python](https://pabloinsente.github.io/intro-linear-algebra)
-
 
 
 ### Deep Learning
@@ -133,7 +129,6 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Transformers from Scratch](https://e2eml.school/transformers.html)
 
 
-
 ### Time Series
 - [Forecasting Principles and Practice](https://otexts.org/fpp2/)
 - [How To Identify Patterns in Time Series Data](http://www.statsoft.com/textbook/time-series-analysis)
@@ -141,7 +136,6 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [CausalImpact using Baysian structure time series](https://google.github.io/CausalImpact/CausalImpact.html)
 - [Time Series Notes (Oregon State University)](http://stat565.cwick.co.nz/)
 - [Extracting Seasonality and Trend from Data: Decomposition using R](https://anomaly.io/seasonal-trend-decomposition-in-r/)
-
 
 
 ### Text Analysis/NLP
@@ -152,6 +146,14 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [NLP Index](https://index.quantumstat.com/)
 
 
+### Data Visualization
+- [Flowing Data](http://flowingdata.com/)
+- [Seaborn pair plots](https://seaborn.pydata.org/generated/seaborn.pairplot.html)
+- [D3 js examples](http://biovisualize.github.io/d3visualization/)
+- [D3 js examples newer version](http://christopheviau.com/d3list/gallery.html)
+- [Data Visualization Society](https://www.datavisualizationsociety.com/)
+- [A Comprehensive guide to data exploration](https://www.analyticsvidhya.com/blog/2016/01/guide-data-exploration/)
+- [Dash](https://dash.plot.ly/)
 
 ### Algorithms
 - [Regression (Glm)](https://web.stanford.edu/~hastie/glmnet/glmnet_alpha.html)
@@ -172,7 +174,6 @@ List of Data Science and Machine Learning Resource that I frequently use
 
 ### Spark
 - [Data Scientist's guide to Apache Spark](https://pages.databricks.com/rs/094-YMS-629/images/data-scientists-guide-apache-spark-NEW-BRAND-051520-v4.pdf?mkt_tok=eyJpIjoiT0RKa01ESTJaV1UxTkRkaiIsInQiOiI1Z2NTbXk1RThENm9YbEliNlwvbTc2VjNVVkYyRXB1ZnJoV0hITm9DK1A2clBwXC8reE1LRWU4TndSXC9WWmwzb3lrWVQ2eUlqcW9lRU5nZlNidElha0UzOENrYlQ1WUI5NENtamZEbXhRM01iVSs3OGhWUlpDUEpLK0NyS210MVRNNyJ9)
-
 
 
 ### Frequently visiting blogs
@@ -202,7 +203,6 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Open AI Blog](https://openai.com/blog/)
 
 
-
 ### Tech blogs from various organizations
 - [Netflix Tech Blog for Data Science](https://netflixtechblog.com/tagged/data-science)
 - [Google AI Blog](https://ai.googleblog.com/)
@@ -212,12 +212,10 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Uber Engineering](https://eng.uber.com/category/articles/ai/)
 
 
-
 ### Classes from different universities
 - [CS 229 ― Machine Learning](http://cs229.stanford.edu/syllabus.html)
 - [Stat202 - Data Mining and analysis](http://web.stanford.edu/class/stats202/content/lectures.html)
 - [Columbia University Applied Machine Learning by Andreas Muller](http://www.cs.columbia.edu/~amueller/comsw4995s18/schedule/)
-
 
 
 ### Public Datasets
@@ -241,11 +239,9 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Open Source Audio datasets](https://towardsdatascience.com/40-open-source-audio-datasets-for-ml-59dc39d48f06)
 
 
-
 ### Videos on Data
 - [Ted Talks - Making sense of too much data](https://www.ted.com/playlists/56/making_sense_of_too_much_data)
 - [Andrew Ng's ML Lectures - Stanford](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
-
 
 
 ### Free Ebooks
@@ -257,7 +253,6 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [65 Free machine learnign and data books](https://towardsdatascience.com/springer-has-released-65-machine-learning-and-data-books-for-free-961f8181f189)
 - [Free Programming and ML pdf books](https://www.pythonstacks.com/free-books/)
 - [Approaching any machine learning problem](https://github.com/abhishekkrthakur/approachingalmost/blob/master/AAAMLP.pdf)
-
 
 
 ### Misc
@@ -272,7 +267,6 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Machine Learning Questions](https://sebastianraschka.com/faq/index.html)
 - [Graph database for beginners](https://go.neo4j.com/rs/710-RRC-335/images/Graph_Databases_for_Beginners.pdf?_ga=2.210920725.1607138034.1595889787-1206924530.1595889787)
 - [Top Github Repos](https://towardsdatascience.com/top-10-github-repos-to-bookmark-right-now-b0bc62436ffc)
-
 
 
 ### Jupyter Notebooks
@@ -315,7 +309,6 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Algorithm & Coding Interviews](https://github.com/liyin2015/Algorithms-and-Coding-Interviews/tree/master/)
 - [SDE Skills](https://beta.sdeskills.com/)
 - [Tech Interview Handbook](https://techinterviewhandbook.org/algorithms/algorithms-introduction/)
-
 
 
 ### System Designs & Distributed Systems
