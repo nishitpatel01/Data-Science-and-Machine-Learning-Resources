@@ -8,6 +8,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Transformer Explained](https://daleonai.com/transformers-explained)
 - [Visual Guide to Transformer Neural Networks](https://www.youtube.com/watch?v=dichIcUZfOw)
 - [Understanding Large Language Models](https://magazine.sebastianraschka.com/p/understanding-large-language-models)
+- [Transformer models: an introduction and catalog — 2023 Edition](https://amatriain.net/blog/transformer-models-an-introduction-and-catalog-2d1e9039f376/)
 
 #### Intermediate Level Resources
 
