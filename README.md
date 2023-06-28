@@ -16,6 +16,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Fine-tuning LLMs](https://magazine.sebastianraschka.com/p/finetuning-large-language-models)
 
 
+
 ### Generartive AI 
 (coming soon...)
 
@@ -25,6 +26,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [BERTL Pre-training of Deep Biirectional transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
 - [LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attension](https://daleonai.com/transformers-explained)
 - [Paramter-Efficient Transfer Learning for NLP](http://proceedings.mlr.press/v97/houlsby19a/houlsby19a.pdf)
+- [Distillation - step by step](https://arxiv.org/pdf/2305.02301.pdf)
 
 
 ### Data Science
