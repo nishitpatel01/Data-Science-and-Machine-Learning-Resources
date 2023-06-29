@@ -2,7 +2,7 @@
 List of Data Science and Machine Learning Resource that I frequently use
 
 
-### Large Language Models (LLMs)
+### Large Language Models (LLMs) & Generative AI
 #### Basic Resources & Transformers
 - [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
 - [Transformer Explained](https://daleonai.com/transformers-explained)
@@ -16,17 +16,20 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Fine-tuning LLMs](https://magazine.sebastianraschka.com/p/finetuning-large-language-models)
 
 
-
-### Generartive AI 
-(coming soon...)
-
-
 ### LLM/GenAI Research Papers
-- [Attension is all you need](https://arxiv.org/pdf/1706.03762.pdf)
+#### LLM Architectures
+- [Attention is all you need](https://arxiv.org/pdf/1706.03762.pdf)
 - [BERTL Pre-training of Deep Biirectional transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
 - [LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attension](https://daleonai.com/transformers-explained)
 - [Paramter-Efficient Transfer Learning for NLP](http://proceedings.mlr.press/v97/houlsby19a/houlsby19a.pdf)
 - [Distillation - step by step](https://arxiv.org/pdf/2305.02301.pdf)
+- [SQL-PaLM: IMPROVED LARGE LANGUAGE MODEL ADAPTATION FOR TEXT-TO-SQL](https://arxiv.org/pdf/2306.00739.pdf)
+- [Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf)
+- [FINETUNED LANGUAGE MODELS ARE ZERO-SHOT LEARNERS](https://arxiv.org/pdf/2109.01652.pdf)
+- [Large Language Models are Zero-Shot Reasoners](https://arxiv.org/pdf/2205.11916.pdf)
+- [Scaling Laws for Neural Language Models](https://arxiv.org/pdf/2001.08361.pdf)
+
+#### Retrieval augmented LLMs
 
 
 ### Data Science
