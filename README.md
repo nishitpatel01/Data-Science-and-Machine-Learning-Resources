@@ -16,8 +16,8 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Fine-tuning LLMs](https://magazine.sebastianraschka.com/p/finetuning-large-language-models)
 
 
-### LLM/GenAI Research Papers
-#### LLM Architectures
+#### Research Papers
+##### LLM Architectures
 - [Attention is all you need](https://arxiv.org/pdf/1706.03762.pdf)
 - [BERTL Pre-training of Deep Biirectional transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
 - [LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attension](https://daleonai.com/transformers-explained)
@@ -29,7 +29,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Large Language Models are Zero-Shot Reasoners](https://arxiv.org/pdf/2205.11916.pdf)
 - [Scaling Laws for Neural Language Models](https://arxiv.org/pdf/2001.08361.pdf)
 
-#### Retrieval augmented LLMs
+##### Retrieval augmented LLMs
 
 
 ### Data Science
