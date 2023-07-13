@@ -28,6 +28,8 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [FINETUNED LANGUAGE MODELS ARE ZERO-SHOT LEARNERS](https://arxiv.org/pdf/2109.01652.pdf)
 - [Large Language Models are Zero-Shot Reasoners](https://arxiv.org/pdf/2205.11916.pdf)
 - [Scaling Laws for Neural Language Models](https://arxiv.org/pdf/2001.08361.pdf)
+- [REACT: SYNERGIZING REASONING AND ACTING INLANGUAGE MODELS](https://arxiv.org/pdf/2210.03629.pdf)
+- [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/pdf/2201.11903.pdf)
 
 ##### Retrieval augmented LLMs
 
