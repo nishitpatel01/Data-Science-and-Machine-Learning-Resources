@@ -13,7 +13,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Visual Guide to Transformer Neural Networks](https://www.youtube.com/watch?v=dichIcUZfOw)
 - [Understanding Large Language Models](https://magazine.sebastianraschka.com/p/understanding-large-language-models)
 - [Transformer models: an introduction and catalog — 2023 Edition](https://amatriain.net/blog/transformer-models-an-introduction-and-catalog-2d1e9039f376/)
-- 
+
 
 #### Advanced concepts
 - [Fine-tuning LLMs](https://magazine.sebastianraschka.com/p/finetuning-large-language-models)
