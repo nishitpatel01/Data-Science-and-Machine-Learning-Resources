@@ -204,7 +204,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Data Scientist's guide to Apache Spark](https://pages.databricks.com/rs/094-YMS-629/images/data-scientists-guide-apache-spark-NEW-BRAND-051520-v4.pdf?mkt_tok=eyJpIjoiT0RKa01ESTJaV1UxTkRkaiIsInQiOiI1Z2NTbXk1RThENm9YbEliNlwvbTc2VjNVVkYyRXB1ZnJoV0hITm9DK1A2clBwXC8reE1LRWU4TndSXC9WWmwzb3lrWVQ2eUlqcW9lRU5nZlNidElha0UzOENrYlQ1WUI5NENtamZEbXhRM01iVSs3OGhWUlpDUEpLK0NyS210MVRNNyJ9)
 
 
-### Frequently visiting blogs
+### Frequently Visiting Blogs
 - [Chris Albon](https://chrisalbon.com/)
 - [DS Lore](http://nadbordrozd.github.io/)
 - [Zack Stewart](http://zacstewart.com/)
@@ -231,13 +231,23 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Open AI Blog](https://openai.com/blog/)
 
 
-### Tech blogs from various organizations
+### Tech Blogs 
 - [Netflix Tech Blog for Data Science](https://netflixtechblog.com/tagged/data-science)
 - [Google AI Blog](https://ai.googleblog.com/)
+- [Gogole DeepMind](https://deepmind.google/discover/blog/)
 - [AirBnb Engineering & Data Science](https://airbnb.io/)
 - [Facebook Research](https://research.fb.com/blog/?cat=6)
+- [Meta AI](https://ai.meta.com/blog/)
 - [The Yhat Blog](http://blog.yhat.com/)
 - [Uber Engineering](https://eng.uber.com/category/articles/ai/)
+- [AWS Machine Learning](https://aws.amazon.com/blogs/machine-learning/)
+- [Microsoft AI](https://news.microsoft.com/source/topics/ai/)
+- [Open AI](https://openai.com/research/index/)
+- [Uber Engineering](https://www.uber.com/en-IN/blog/chennai/engineering/data/)
+- [Linkedin AI](https://www.linkedin.com/blog/engineering/generative-ai)
+- [XAI](https://x.ai/news)
+- [NVIDIA AI](https://developer.nvidia.com/blog/search-posts/?categories=AI+Platforms+%2F+Deployment)
+- 
 
 
 ### Classes from different universities
