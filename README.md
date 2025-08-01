@@ -2,8 +2,10 @@
 List of Data Science and Machine Learning Resource that I frequently use
 
 
-### Large Language Models (LLMs) & Generative AI
+### Agentic AI & Agents
+- [Agentic Design Patterns](https://docs.google.com/document/d/1rsaK53T3Lg5KoGwvf8ukOUvbELRtH-V0LnOIFDxBryE/edit?tab=t.0#heading=h.pxcur8v2qagu)
 
+### Large Language Models (LLMs) & Generative AI
  - [Awesome LLM](https://github.com/Hannibal046/Awesome-LLM#tutorials-about-llm)
 
    
