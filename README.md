@@ -7,6 +7,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 
 ### Large Language Models (LLMs) & Generative AI
  - [Awesome LLM](https://github.com/Hannibal046/Awesome-LLM#tutorials-about-llm)
+ - [Hands on LLM Repo](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models/tree/main)
 
    
 #### Basic Resources & Transformers
