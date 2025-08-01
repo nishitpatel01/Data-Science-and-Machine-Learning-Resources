@@ -247,7 +247,9 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Linkedin AI](https://www.linkedin.com/blog/engineering/generative-ai)
 - [XAI](https://x.ai/news)
 - [NVIDIA AI](https://developer.nvidia.com/blog/search-posts/?categories=AI+Platforms+%2F+Deployment)
-- 
+- [Databricks Data Science & Machine Learning](https://www.databricks.com/blog/category/engineering?categories=data-science-machine-learning)
+- [Spotify Engineering Blog](https://engineering.atspotify.com/?c=maching-learning)
+- [Github AI & ML](https://github.blog/ai-and-ml/)
 
 
 ### Classes from different universities
