@@ -252,7 +252,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Github AI & ML](https://github.blog/ai-and-ml/)
 
 
-### Classes from different universities
+### Classes from Academia 
 - [CS 229 ― Machine Learning](http://cs229.stanford.edu/syllabus.html)
 - [Stat202 - Data Mining and analysis](http://web.stanford.edu/class/stats202/content/lectures.html)
 - [Columbia University Applied Machine Learning by Andreas Muller](http://www.cs.columbia.edu/~amueller/comsw4995s18/schedule/)
