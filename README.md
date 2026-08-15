@@ -9,6 +9,8 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Agent Skills](https://drive.google.com/file/d/1Wso-CM4aAvTxFZa5wjBntKM3IVSg7PWW/view)
 - [Agent Security and Evaluation](https://drive.google.com/file/d/1Wso-CM4aAvTxFZa5wjBntKM3IVSg7PWW/view)
 - [Spec Driven Production Grade Development in the Age of Vibe Coding](https://drive.google.com/file/d/1lCx0Lh06sK6j59nTNc_pYRdnoxgDtJcn/view)
+- [Agent Skills - Productin Grade Engineering Workflows & Loop Engineering](https://github.com/addyosmani/agent-skills)
+- 
 
 ### Large Language Models (LLMs) & Generative AI
  - [Awesome LLM](https://github.com/Hannibal046/Awesome-LLM#tutorials-about-llm)
