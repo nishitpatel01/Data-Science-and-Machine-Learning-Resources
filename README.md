@@ -10,12 +10,17 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Agent Security and Evaluation](https://drive.google.com/file/d/1Wso-CM4aAvTxFZa5wjBntKM3IVSg7PWW/view)
 - [Spec Driven Production Grade Development in the Age of Vibe Coding](https://drive.google.com/file/d/1lCx0Lh06sK6j59nTNc_pYRdnoxgDtJcn/view)
 - [Agent Skills - Productin Grade Engineering Workflows & Loop Engineering](https://github.com/addyosmani/agent-skills)
-- 
+
+#### Agentic Development
+- [Agentic ADLC](https://github.com/evekhm/agentic-sdlc)
+
+### Harness Engineering
+- [Harness Guide](https://harness-guide.com/guide/what-is-harness/)
+  
 
 ### Large Language Models (LLMs) & Generative AI
  - [Awesome LLM](https://github.com/Hannibal046/Awesome-LLM#tutorials-about-llm)
  - [Hands on LLM Repo](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models/tree/main)
-
    
 #### Basic Resources & Transformers
 - [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/)
@@ -43,8 +48,6 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Scaling Laws for Neural Language Models](https://arxiv.org/pdf/2001.08361.pdf)
 - [REACT: SYNERGIZING REASONING AND ACTING INLANGUAGE MODELS](https://arxiv.org/pdf/2210.03629.pdf)
 - [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/pdf/2201.11903.pdf)
-
-##### Retrieval augmented LLMs
 
 
 ### Data Science
