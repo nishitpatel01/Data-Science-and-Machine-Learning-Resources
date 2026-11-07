@@ -16,6 +16,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 
 ### Harness Engineering
 - [Harness Guide](https://harness-guide.com/guide/what-is-harness/)
+- [Harness Engineering Course](https://walkinglabs.github.io/learn-harness-engineering/en/)
   
 
 ### Large Language Models (LLMs) & Generative AI
