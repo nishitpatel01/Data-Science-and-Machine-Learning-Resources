@@ -367,8 +367,10 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Tech Interview Handbook](https://techinterviewhandbook.org/algorithms/algorithms-introduction/)
 
 
-### System Designs & Distributed Systems
+### Interview Guide & Resources
+ - [AI Engineering Learning Path](https://aiengineeringfromscratch.com/learning-paths)
  - [SYSTEM DESIGN INTERVIEW- AN INSIDER'S GUIDE](https://systeminterview.com/)
+ - [Grokking Teh System Design](https://grokkingthesystemdesign.com/)
 
 
 ### Git 
