@@ -343,7 +343,8 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Awesoem AI Architect](https://github.com/Alexey-Popov/awesome-ai-architect)
 - [AI Engineering Interview Questions](https://github.com/amitshekhariitbhu/ai-engineering-interview-questions)
 - [System Design Primer](https://github.com/donnemartin/system-design-primer)
-
+- [LLM Engineer Toolkit](https://github.com/KalyanKS-NLP/llm-engineer-toolkit)
+  
 
 ### Data Science & Machine Learning Podcasts
 - [Dataframed by Datacamp](https://www.datacamp.com/community/podcast)
@@ -373,6 +374,8 @@ List of Data Science and Machine Learning Resource that I frequently use
  - [AI Engineering Learning Path](https://aiengineeringfromscratch.com/learning-paths)
  - [SYSTEM DESIGN INTERVIEW- AN INSIDER'S GUIDE](https://systeminterview.com/)
  - [Grokking Teh System Design](https://grokkingthesystemdesign.com/)
+ - [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability)
+ - [Microservice Demo](https://github.com/googlecloudplatform/microservices-demo)
 
 
 ### Git 
