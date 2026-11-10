@@ -178,14 +178,6 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Extracting Seasonality and Trend from Data: Decomposition using R](https://anomaly.io/seasonal-trend-decomposition-in-r/)
 
 
-### Text Analysis/NLP
-- [Text Processing - Steps, Tools & Examples](https://medium.com/@datamonsters/text-preprocessing-in-python-steps-tools-and-examples-bf025f872908)
-- [Document Classification: 7 pragmatic approaches for small datasets](https://neptune.ai/blog/document-classification-small-datasets?utm_source=slack&utm_medium=post&utm_campaign=blog-document-classification-small-datasets)
-- [Collection of Colab notebook based on deep learning & transformer models](https://notebooks.quantumstat.com/)
-- [NLP on Spark](https://nlp.johnsnowlabs.com/)
-- [NLP Index](https://index.quantumstat.com/)
-
-
 ### Data Visualization
 - [Flowing Data](http://flowingdata.com/)
 - [Seaborn pair plots](https://seaborn.pydata.org/generated/seaborn.pairplot.html)
@@ -195,7 +187,8 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [A Comprehensive guide to data exploration](https://www.analyticsvidhya.com/blog/2016/01/guide-data-exploration/)
 - [Dash](https://dash.plot.ly/)
 
-### Algorithms
+
+### ML Algorithms
 - [Regression (Glm)](https://web.stanford.edu/~hastie/glmnet/glmnet_alpha.html)
 - [Forecasting using Time Series](http://a-little-book-of-r-for-time-series.readthedocs.io/en/latest/src/timeseries.html)
 - [Types of Regressions](https://www.listendata.com/2018/03/regression-analysis.html)
@@ -212,11 +205,26 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Hadoop Ecosystem Table](https://hadoopecosystemtable.github.io/)
 
 
-### Spark
-- [Data Scientist's guide to Apache Spark](https://pages.databricks.com/rs/094-YMS-629/images/data-scientists-guide-apache-spark-NEW-BRAND-051520-v4.pdf?mkt_tok=eyJpIjoiT0RKa01ESTJaV1UxTkRkaiIsInQiOiI1Z2NTbXk1RThENm9YbEliNlwvbTc2VjNVVkYyRXB1ZnJoV0hITm9DK1A2clBwXC8reE1LRWU4TndSXC9WWmwzb3lrWVQ2eUlqcW9lRU5nZlNidElha0UzOENrYlQ1WUI5NENtamZEbXhRM01iVSs3OGhWUlpDUEpLK0NyS210MVRNNyJ9)
-
-
-### Frequently Visiting Blogs
+### Tech Blogs 
+- [Open AI Blog](https://openai.com/blog/)
+- [Netflix Tech Blog for Data Science](https://netflixtechblog.com/tagged/data-science)
+- [Google AI Blog](https://ai.googleblog.com/)
+- [Gogole DeepMind](https://deepmind.google/discover/blog/)
+- [AirBnb Engineering & Data Science](https://airbnb.io/)
+- [Facebook Research](https://research.fb.com/blog/?cat=6)
+- [Meta AI](https://ai.meta.com/blog/)
+- [The Yhat Blog](http://blog.yhat.com/)
+- [Uber Engineering](https://eng.uber.com/category/articles/ai/)
+- [AWS Machine Learning](https://aws.amazon.com/blogs/machine-learning/)
+- [Microsoft AI](https://news.microsoft.com/source/topics/ai/)
+- [Open AI](https://openai.com/research/index/)
+- [Uber Engineering](https://www.uber.com/en-IN/blog/chennai/engineering/data/)
+- [Linkedin AI](https://www.linkedin.com/blog/engineering/generative-ai)
+- [XAI](https://x.ai/news)
+- [NVIDIA AI](https://developer.nvidia.com/blog/search-posts/?categories=AI+Platforms+%2F+Deployment)
+- [Databricks Data Science & Machine Learning](https://www.databricks.com/blog/category/engineering?categories=data-science-machine-learning)
+- [Spotify Engineering Blog](https://engineering.atspotify.com/?c=maching-learning)
+- [Github AI & ML](https://github.blog/ai-and-ml/)
 - [Chris Albon](https://chrisalbon.com/)
 - [DS Lore](http://nadbordrozd.github.io/)
 - [Zack Stewart](http://zacstewart.com/)
@@ -240,28 +248,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [AI Show](https://channel9.msdn.com/Shows/AI-Show/An-Intuitive-Approach-to-Machine-Learning-Models-Part-1-of-4)
 - [Distill.pub](https://distill.pub/)
 - [Jay Alammar - Blog on NLP and Deep Learning](http://jalammar.github.io/)
-- [Open AI Blog](https://openai.com/blog/)
 
-
-### Tech Blogs 
-- [Netflix Tech Blog for Data Science](https://netflixtechblog.com/tagged/data-science)
-- [Google AI Blog](https://ai.googleblog.com/)
-- [Gogole DeepMind](https://deepmind.google/discover/blog/)
-- [AirBnb Engineering & Data Science](https://airbnb.io/)
-- [Facebook Research](https://research.fb.com/blog/?cat=6)
-- [Meta AI](https://ai.meta.com/blog/)
-- [The Yhat Blog](http://blog.yhat.com/)
-- [Uber Engineering](https://eng.uber.com/category/articles/ai/)
-- [AWS Machine Learning](https://aws.amazon.com/blogs/machine-learning/)
-- [Microsoft AI](https://news.microsoft.com/source/topics/ai/)
-- [Open AI](https://openai.com/research/index/)
-- [Uber Engineering](https://www.uber.com/en-IN/blog/chennai/engineering/data/)
-- [Linkedin AI](https://www.linkedin.com/blog/engineering/generative-ai)
-- [XAI](https://x.ai/news)
-- [NVIDIA AI](https://developer.nvidia.com/blog/search-posts/?categories=AI+Platforms+%2F+Deployment)
-- [Databricks Data Science & Machine Learning](https://www.databricks.com/blog/category/engineering?categories=data-science-machine-learning)
-- [Spotify Engineering Blog](https://engineering.atspotify.com/?c=maching-learning)
-- [Github AI & ML](https://github.blog/ai-and-ml/)
 
 
 ### Academia ML Courses 
@@ -339,6 +326,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [Interview Query](https://www.interviewquery.com/)
 - [Machine Learning Interview](https://github.com/khangich/machine-learning-interview)
 
+
 ### AI Engineer Interview Prep
 - [Awesoem AI Architect](https://github.com/Alexey-Popov/awesome-ai-architect)
 - [AI Engineering Interview Questions](https://github.com/amitshekhariitbhu/ai-engineering-interview-questions)
@@ -346,7 +334,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [LLM Engineer Toolkit](https://github.com/KalyanKS-NLP/llm-engineer-toolkit)
   
 
-### Data Science & Machine Learning Podcasts
+### Podcasts
 - [Dataframed by Datacamp](https://www.datacamp.com/community/podcast)
 - [Data Skeptic by Kyle Polich](https://dataskeptic.com/)
 - [Linear Diagressions](http://lineardigressions.com/)
