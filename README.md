@@ -361,7 +361,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 ### Interview Guide & Resources
  - [AI Engineering Learning Path](https://aiengineeringfromscratch.com/learning-paths)
  - [SYSTEM DESIGN INTERVIEW- AN INSIDER'S GUIDE](https://systeminterview.com/)
- - [Grokking Teh System Design](https://grokkingthesystemdesign.com/)
+ - [Grokking The System Design](https://grokkingthesystemdesign.com/)
  - [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability)
  - [Microservice Demo](https://github.com/googlecloudplatform/microservices-demo)
 
