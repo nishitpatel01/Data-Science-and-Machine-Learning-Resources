@@ -328,6 +328,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 
 
 ### AI Engineer Interview Prep
+- [AI Engineering Learning Path](https://aiengineeringfromscratch.com/learning-paths)
 - [Awesoem AI Architect](https://github.com/Alexey-Popov/awesome-ai-architect)
 - [AI Engineering Interview Questions](https://github.com/amitshekhariitbhu/ai-engineering-interview-questions)
 - [System Design Primer](https://github.com/donnemartin/system-design-primer)
@@ -359,12 +360,12 @@ List of Data Science and Machine Learning Resource that I frequently use
 
 
 ### Interview Guide & Resources
- - [AI Engineering Learning Path](https://aiengineeringfromscratch.com/learning-paths)
- - [SYSTEM DESIGN INTERVIEW- AN INSIDER'S GUIDE](https://systeminterview.com/)
+ - [System Design Notes](https://github.com/liquidslr/system-design-notes)
  - [Grokking The System Design](https://grokkingthesystemdesign.com/)
  - [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability)
  - [Microservice Demo](https://github.com/googlecloudplatform/microservices-demo)
  - [Protocol Explorer](https://protocol-explorer-alpha.vercel.app/)
+ - [Designed to Scale](https://designed-to-scale.vercel.app/#/)
 
 
 ### Git 
