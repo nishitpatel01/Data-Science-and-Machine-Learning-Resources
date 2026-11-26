@@ -331,6 +331,7 @@ List of Data Science and Machine Learning Resource that I frequently use
 - [AI Engineering Learning Path](https://aiengineeringfromscratch.com/learning-paths)
 - [Awesoem AI Architect](https://github.com/Alexey-Popov/awesome-ai-architect)
 - [AI Engineering Interview Questions](https://github.com/amitshekhariitbhu/ai-engineering-interview-questions)
+- [Awesome AI Engineer Interview](https://github.com/landedjobs/awesome-ai-engineer-interview)
 - [System Design Primer](https://github.com/donnemartin/system-design-primer)
 - [LLM Engineer Toolkit](https://github.com/KalyanKS-NLP/llm-engineer-toolkit)
   
